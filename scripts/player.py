@@ -1,0 +1,2 @@
+pokemon = None
+items = None
